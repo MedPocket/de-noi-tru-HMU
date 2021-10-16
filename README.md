@@ -1,7 +1,9 @@
-# Đề thi nội trú HMU
+# Đề ôn thi nội trú HMU (beta)
 
-Đề thi tham khảo nội trú Y Hà Nội
+Đề tham khảo ôn thi nội trú Y Hà Nội
 
-## License
+## Tác giả
+- Long Nhật Nguyễn
 
-Licensed under the [CC0-1.0](LICENSE) license.
+## Bản quyền
+Bản quyền dưới giấy phép [CC0-1.0](LICENSE).

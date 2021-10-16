@@ -1,4 +1,4 @@
-# MCQ nội trú HMU
+# Đề thi nội trú HMU
 
 Đề thi tham khảo nội trú Y Hà Nội
 
